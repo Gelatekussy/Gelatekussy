@@ -18,7 +18,7 @@ I do stuff in:
   - FNF (Modcharts | Psych/Kade Engine)
 
 Socials:
-  - Discord: discord.gg/isotope
+  - Discord: https://discord.gg/failure
   - Youtube: https://www.youtube.com/c/blackmania
   - Twitter: (private)
 
