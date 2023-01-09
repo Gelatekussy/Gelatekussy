@@ -3,7 +3,7 @@ General:
   - Pronouns: He/Him
   - Nationality: Polish
   - Sex/Gender: Male
-  - Sexuality: Gay
+  - Sexuality: Gay(ugly)
   - Age: 14 (20th January 2008)
 
 I play:
